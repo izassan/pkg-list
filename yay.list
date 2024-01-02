@@ -1,0 +1,47 @@
+# infra package
+base
+base-devel
+grub
+efibootmgr
+vi
+man-db
+man-pages
+udisks2
+
+# networks 
+iw
+iwd
+dhcpcd
+tailscale
+
+# desktop environment structure
+xorg
+sddm
+i3
+fcitx5-im
+fcitx5-mozc
+feh
+picom
+xterm
+rofi
+
+# applications
+gvim
+alacritty
+docker
+github-cli
+git
+go
+google-chrome
+keepassxc
+openssh
+zsh
+
+# fonts
+ipa-fonts
+gnu-free-fonts
+noto-fonts-emoji
+
+# audio
+pavucontrol
+pulseaudio
