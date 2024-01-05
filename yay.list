@@ -45,3 +45,7 @@ noto-fonts-emoji
 # audio
 pavucontrol
 pulseaudio
+
+# bluetooth
+bluez
+bluez-utils
